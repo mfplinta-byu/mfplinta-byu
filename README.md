@@ -1,3 +1,5 @@
 ## Hi there 👋, I'm Matt (Matheus)
-
-🔗 [Go to personal GitHub](https://github.com/mfplinta)
+Tech aficionado. Programmer in C#, Python, NodeJS, and more.\
+\
+🔗 [Go to personal repo](https://github.com/mfplinta)\
+🌐 [My website](https://www.matheusplinta.com)
