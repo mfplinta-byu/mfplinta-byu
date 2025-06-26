@@ -2,6 +2,9 @@
 
 These are some of the projects I developed across my educational endeavors.
 
+🎓 **BYU Idaho**
+- CSE 111: [Road Rush Game](https://github.com/dvdfl/final)
+
 🎓 **BYU**
 - CS 260: 
 [Project 2: IP viewer](https://github.com/mfplinta-byu/cs260-project2) | 
